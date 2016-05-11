@@ -1,10 +1,10 @@
 <?php
 /*
  * Plugin Name: Postal Code Locations
- * Plugin URI:  http://wordpress.org/plugins/in-stock-layered-nav-for-woocommerce
- * Description: Hides products that are out of stock for the size attribute when viewing that size's catalog page.
+ * Plugin URI:  http://wordpress.org/plugins/postal-code-locations
+ * Description: Allows users to search for content within a radius of a certain postal code by integrating with zippopotam.us.
  * Version:     1.0
- * Author:      Linchpin Agency - Jonathan Desrosiers
+ * Author:      Jonathan Desrosiers & Linchpin Agency
  * Author URI:  http://linchpin.agency/?utm_source=in-stock-layered-nav-for-woocommerce&utm_medium=plugin-admin-page&utm_campaign=wp-plugin
  * License:     GPL 2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
